@@ -1,0 +1,8 @@
+h6
+{
+    text-align: right;
+    background-color: blue;
+    color:aliceblue;
+    text-decoration: underline;
+    font-size: larger;
+}
